@@ -43,7 +43,7 @@
 
 This use case addresses the first flow in the below diagram: 
 
-![alt text](https://github.com/prathjan/images/blob/main/tomflow.png?raw=true)
+![alt text](https://github.com/prathjan/images/blob/main/tomflow1.png?raw=true)
 
 ### Pre-requisites
 
